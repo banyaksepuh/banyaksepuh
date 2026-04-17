@@ -74,18 +74,10 @@ Pendekatan yang digunakan dalam security testing:
 
 ---
 
-## 🧪 Labs & Practice
-
-- PortSwigger Web Security Academy  
-- Custom vulnerable environments  
-- CTF & hands-on exploitation labs  
-
----
-
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banyaksepuh&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banyaksepuh&layout=compact)
 
 ---
 
@@ -93,27 +85,21 @@ Pendekatan yang digunakan dalam security testing:
 
 Terbuka untuk:
 - Security testing & research  
-- Backend + security projects  
+- Security projects 
 - Responsible disclosure collaboration  
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com  
-- LinkedIn: (optional)  
-- Portfolio: (optional)  
+- Email: sultann1337@email.com  
+- LinkedIn: https://www.linkedin.com/in/sultann1337/ 
+- Portfolio: https://sultann.vercel.app  
 
 ---
 
-## ⚠️ Ethics
+## ⚠️ Alert
 
 Semua aktivitas dilakukan dalam konteks **legal, authorized, dan responsible disclosure**.
-
----
-
-## 📌 Principle
-
-> "Think like an attacker. Build like a defender."
 
 ---
