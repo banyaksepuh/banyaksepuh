@@ -74,13 +74,6 @@ Pendekatan yang digunakan dalam security testing:
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banyaksepuh&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banyaksepuh&layout=compact)
-
----
-
 ## 🤝 Collaboration
 
 Terbuka untuk:
