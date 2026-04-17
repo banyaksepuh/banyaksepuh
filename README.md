@@ -1,71 +1,84 @@
 # 👨‍💻 Sultan Rizky
 
-**Backend Engineer | Security-Focused System Architect**
+**Backend Engineer | Red Teaming & Offensive Security**
 
 ---
 
 ## 🧠 Profile
 
-Backend engineer dengan fokus pada desain dan implementasi sistem yang **scalable, resilient, dan secure**.  
-Berpengalaman dalam membangun arsitektur backend yang tidak hanya efisien, tetapi juga memiliki **defense layer yang kuat terhadap berbagai ancaman keamanan**.
+Backend engineer dengan spesialisasi pada **offensive security dan adversarial thinking**.  
+Berpengalaman dalam menganalisis sistem dari perspektif attacker untuk mengidentifikasi, mengeksploitasi, dan membantu memperbaiki kerentanan.
 
-Menggabungkan **software engineering principles** dengan **security mindset** untuk memastikan setiap sistem yang dibangun siap digunakan dalam skala produksi.
+Menggabungkan **engineering discipline** dengan **red team methodology** untuk meningkatkan ketahanan sistem terhadap serangan nyata.
 
 ---
 
 ## 🏗️ Core Expertise
 
-- **Backend Architecture Design** (Monolith → Microservices)
-- **API Design & Distributed Systems**
-- **System Scalability & Performance Optimization**
-- **Secure Software Development Lifecycle (SSDLC)**
-- **Threat Modeling & Risk Assessment**
-- **Web Application Security**
+- Web Application Penetration Testing  
+- Vulnerability Assessment & Exploitation  
+- Backend Architecture & API Security  
+- Threat Modeling (Attacker Perspective)  
+- Reconnaissance & Attack Surface Mapping  
 
 ---
 
 ## 🛠️ Technology Stack
 
 **Languages**
-- PHP (Laravel Ecosystem)
+- PHP (Laravel)
 - JavaScript / TypeScript (Node.js)
 - Python
 
-**Infrastructure & Tools**
-- REST / GraphQL APIs
-- Docker & Containerization
-- Linux Environment
+**Infrastructure**
+- Linux
+- Docker
+- REST APIs
 - CI/CD Pipelines
 
-**Security Domain**
-- OWASP Top 10 Mitigation
-- Authentication & Authorization (JWT, RBAC)
-- Secure Session Management
-- Input Validation & Output Encoding
-- Logging, Monitoring & Incident Awareness
+---
+
+## 🧨 Red Team Toolkit
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuclei-5A0FC8?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</p>
 
 ---
 
-## 🔐 Security Engineering Approach
+## 🔍 Methodology
 
-Mengadopsi pendekatan **security by design** dalam setiap tahap pengembangan:
+Pendekatan yang digunakan dalam security testing:
 
-- Mendesain sistem dengan **least privilege principle**
-- Melakukan **threat modeling** sebelum implementasi
-- Mengurangi **attack surface** melalui arsitektur yang tepat
-- Menerapkan **secure coding standards** secara konsisten
-- Membangun sistem yang **observable & auditable**
+- Reconnaissance & Enumeration  
+- Vulnerability Discovery (Manual + Automated)  
+- Exploitation & Proof of Concept  
+- Privilege Escalation Analysis  
+- Reporting & Remediation Guidance  
 
 ---
 
-## 🚀 Engineering Focus
+## 🎯 Focus Areas
 
-Saat ini berfokus pada:
+- Web vulnerabilities (XSS, SQLi, IDOR, SSRF, dll)  
+- API security & misconfiguration  
+- Authentication & authorization flaws  
+- Business logic vulnerabilities  
+- Automation for recon & scanning  
 
-- Membangun backend system dengan **high availability & fault tolerance**
-- Implementasi **secure API gateway & service isolation**
-- Eksplorasi **automation untuk security testing**
-- Penguatan **system observability (logs, metrics, tracing)**
+---
+
+## 🧪 Labs & Practice
+
+- PortSwigger Web Security Academy  
+- Custom vulnerable environments  
+- CTF & hands-on exploitation labs  
 
 ---
 
@@ -78,10 +91,10 @@ Saat ini berfokus pada:
 
 ## 🤝 Collaboration
 
-Terbuka untuk kolaborasi pada:
-- Backend engineering projects
-- Security-focused systems
-- Open-source contributions
+Terbuka untuk:
+- Security testing & research  
+- Backend + security projects  
+- Responsible disclosure collaboration  
 
 ---
 
@@ -93,10 +106,14 @@ Terbuka untuk kolaborasi pada:
 
 ---
 
-## 📌 Engineering Principle
+## ⚠️ Ethics
 
-> "A system is only as strong as its weakest assumption."
+Semua aktivitas dilakukan dalam konteks **legal, authorized, dan responsible disclosure**.
 
-Membangun software bukan hanya tentang fitur, tetapi tentang **keandalan, keamanan, dan keberlanjutan sistem dalam jangka panjang**.
+---
+
+## 📌 Principle
+
+> "Think like an attacker. Build like a defender."
 
 ---
